@@ -12,3 +12,14 @@ Skeleton dataset link：https://drive.google.com/file/d/1X3ffZ05hp3CAhScFEv-B7jh
 The RGB video may cause copyright issues. If RGB videos are needed, please contact Prof.Shenglan-Liu：liusl@dlut.edu.cn
 
 ## Citation
+
+If you find our work useful in your research, please consider citing:
+
+@misc{liu2023finegrained,
+      title={Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure Skating}, 
+      author={Sheng-Lan Liu and Yu-Ning Ding and Si-Fan Zhang and Wen-Yue Chen and Ning Zhou and Hao Liu and Gui-Hong Lao},
+      year={2023},
+      eprint={2307.02730},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
