@@ -13,6 +13,16 @@ Skeleton dataset link：https://drive.google.com/file/d/1X3ffZ05hp3CAhScFEv-B7jh
 
 The RGB video may cause copyright issues. If RGB videos are needed, please contact Prof.Shenglan-Liu：liusl@dlut.edu.cn
 
+## 相关工作
+
+以下为本人所做的和滑冰数据集相关的识别和动作质量评估新方法。
+
+2M-AF: A Strong Multi-Modality Framework For Human Action Quality Assessment with Self-supervised Representation Learning. ICLR, under review
+
+Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition. TNNLS, under review
+pdf：https://arxiv.org/abs/2306.15321
+github：https://github.com/dingyn-Reno/MDR-GCN
+
 ## Citation
 
 If you find our work useful in your research, please consider citing:
