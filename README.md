@@ -3,7 +3,7 @@ Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure 
 
 pdf：https://arxiv.org/abs/2307.02730
 
-![image](https://github.com/dingyn-Reno/MMFS/edit/main/MDRGCN.png)
+![image]([https://github.com/dingyn-Reno/MMFS/edit/main/MDRGCN.png](https://github.com/dingyn-Reno/MMFS/blob/main/MDRGCN.png))
 
 ## Abstract
 
