@@ -3,7 +3,7 @@ Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure 
 
 pdf：https://arxiv.org/abs/2307.02730
 
-![image text](https://github.com/dingyn-Reno/MMFS/blob/main/MDRGCN.png)
+
 
 ## Abstract
 
@@ -24,6 +24,8 @@ The RGB video may cause copyright issues. If RGB videos are needed, please conta
 Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition. TNNLS, under review
 pdf：https://arxiv.org/abs/2306.15321
 github：https://github.com/dingyn-Reno/MDR-GCN
+
+![image text](https://github.com/dingyn-Reno/MMFS/blob/main/MDRGCN.png)
 
 ## Citation
 
