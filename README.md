@@ -19,9 +19,9 @@ The RGB video may cause copyright issues. If RGB videos are needed, please conta
 
 以下为本人所做的和滑冰数据集相关的识别和动作质量评估新方法。
 
-2M-AF: A Strong Multi-Modality Framework For Human Action Quality Assessment with Self-supervised Representation Learning. ICLR, under review
+2M-AF: A Strong Multi-Modality Framework For Human Action Quality Assessment with Self-supervised Representation Learning. ACM MM 2024.
 
-Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition. TNNLS, under review
+Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition. TNNLS, 
 pdf：https://arxiv.org/abs/2306.15321
 github：https://github.com/dingyn-Reno/MDR-GCN
 
