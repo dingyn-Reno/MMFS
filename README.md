@@ -11,7 +11,7 @@ The fine-grained action analysis of the existing action datasets is challenged b
 
 ## Dataset Download
 
-Skeleton dataset link：https://drive.google.com/file/d/1X3ffZ05hp3CAhScFEv-B7jhIcQne8awc/view?usp=share_link
+Skeleton dataset link：https://drive.google.com/file/d/12lhALM9u17-_V0pH8Epa7LgPJY4x3sM4/view?usp=share_link
 
 The RGB video may cause copyright issues. If RGB videos are needed, please contact Prof.Shenglan-Liu：liusl@dlut.edu.cn
 
